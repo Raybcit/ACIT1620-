@@ -1,0 +1,26 @@
+*{margin: 0;
+padding: 0;
+
+
+}
+
+div {
+    color: purple;
+}
+
+ul.orange > li {
+    color: orange;
+}
+
+h1 + p {color: teal;}
+
+input[type="text"] {border: 2px solide blue;} 
+
+a:hover {color: red;}
+
+/* A-inline
+b-IDS
+C-classes
+d-elements
+ctrl / makes it all selected things into a comment */
+
